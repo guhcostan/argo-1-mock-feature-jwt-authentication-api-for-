@@ -1,0 +1,7 @@
+{
+  "name": "mock-feature-jwt-authentication-api-for-",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  }
+}
